@@ -6,3 +6,5 @@
 /.vs/CardGame/v16
 /CardGame/obj/Debug
 /CardGame/obj/Release
+/packages/MSTest.TestAdapter.2.1.1
+/packages/MSTest.TestFramework.2.1.1
