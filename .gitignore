@@ -3,3 +3,6 @@
 ################################################################################
 
 /CardGame/bin/Debug
+/.vs/CardGame/v16
+/CardGame/obj/Debug
+/CardGame/obj/Release
